@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  Kitchen is here
+  <div>
+    here is microwave
+  </div>
+  <div>
+    here is oven
+  </div>
+  <div>
+    here is fridge
+  </div>
+</div>
+`;
